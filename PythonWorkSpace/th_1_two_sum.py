@@ -17,12 +17,30 @@
 
 class Solution:
     # def twoSum(self, nums: List[int], target: int) -> List[int]:
+    # Method one
     def twoSum(self, nums, target):
         for i in range(len(nums)):
             temp = nums[i]
             y = target - nums[i]
-            nums[i] = "*"
+            nums[i] = ""
             if y in nums:
                 return [i, nums.index(y)]
             nums[i] = temp
         return [0, 0]
+
+    # Method two
+    def twoSum_2(self, nums, target):
+        hash_table = dict()
+        for i, num in enumerate(nums):
+            if target - num in hash_table:
+                return [hash_table[target-num], i]
+            hash_table[nums[i]] = i
+        return [0, 0]
+
+
+if __name__ == '__main__':
+    solu = Solution()
+    # nums = [2, 7, 11, 34]
+    nums = [0, 3, 3, 0]
+    target = 6
+    print(solu.twoSum_2(nums, target))
