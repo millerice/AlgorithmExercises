@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9d186c-4992-4273-9fef-2c04c2126191" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/th_232_implement_queue_using_stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th_225_implement_stack_using_queues.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/th_232_implement_queue_using_stacks.py">
+        <entry file="file://$PROJECT_DIR$/th_225_implement_stack_using_queues.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,7 @@
         <option value="$PROJECT_DIR$/th_142_linked_list_cycle_ii.py" />
         <option value="$PROJECT_DIR$/th_25_reverse_nodes_in_k_group.py" />
         <option value="$PROJECT_DIR$/th_232_implement_queue_using_stacks.py" />
+        <option value="$PROJECT_DIR$/th_225_implement_stack_using_queues.py" />
       </list>
     </option>
   </component>
@@ -236,8 +237,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/th_232_implement_queue_using_stacks.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/th_225_implement_stack_using_queues.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
         </state>
       </provider>
     </entry>
