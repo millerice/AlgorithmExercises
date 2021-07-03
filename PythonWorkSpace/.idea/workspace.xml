@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9d186c-4992-4273-9fef-2c04c2126191" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/th_225_implement_stack_using_queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th_20_valid_parentheses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/th_225_implement_stack_using_queues.py">
+        <entry file="file://$PROJECT_DIR$/th_20_valid_parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="572">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -47,13 +47,14 @@
         <option value="$PROJECT_DIR$/th_25_reverse_nodes_in_k_group.py" />
         <option value="$PROJECT_DIR$/th_232_implement_queue_using_stacks.py" />
         <option value="$PROJECT_DIR$/th_225_implement_stack_using_queues.py" />
+        <option value="$PROJECT_DIR$/th_20_valid_parentheses.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3083" />
-    <option name="y" value="45" />
-    <option name="width" value="1152" />
+    <option name="x" value="2952" />
+    <option name="y" value="40" />
+    <option name="width" value="1287" />
     <option name="height" value="1192" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -92,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.th_1_two_sum">
+  <component name="RunManager" selected="Python.th_20_valid_parentheses">
     <configuration name="th_1_two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonWorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,8 +136,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="th_20_valid_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonWorkSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/th_20_valid_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.th_20_valid_parentheses" />
         <item itemvalue="Python.th_1_two_sum" />
         <item itemvalue="Python.th_206_reverse_linked_list" />
       </list>
@@ -156,15 +179,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3083" y="45" width="1152" height="1192" extended-state="0" />
+    <frame x="2952" y="40" width="1287" height="1192" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3339254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29817605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2595349" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2595349" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -244,8 +267,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/th_225_implement_stack_using_queues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="361">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/th_20_valid_parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
